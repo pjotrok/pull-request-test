@@ -6,7 +6,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Running tests...\" && echo \"✓ Test 1 passed\" && echo \"✓ Test 2 passed\" && echo \"✓ All tests completed successfully\""
+    "test": "ls -la"
   },
   "repository": {
     "type": "git",
